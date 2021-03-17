@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tanuj",
+  "author": "tanujk973",
   "license": "ISC",
   "dependencies": {
     "git": "^0.1.5"
